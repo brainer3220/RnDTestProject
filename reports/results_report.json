@@ -1,0 +1,348 @@
+{
+  "generated": "2026-01-07T20:10:32.741010",
+  "subjects": [
+    {
+      "subject_id": "1",
+      "total_frames": 447,
+      "valid_frames": 447,
+      "squat_phases": [
+        {
+          "start_frame": 0,
+          "bottom_frame": 6,
+          "end_frame": 46,
+          "max_depth": 0.6566297718520399
+        },
+        {
+          "start_frame": 80,
+          "bottom_frame": 112,
+          "end_frame": 151,
+          "max_depth": 0.7358828064480153
+        },
+        {
+          "start_frame": 167,
+          "bottom_frame": 446,
+          "end_frame": 446,
+          "max_depth": 1.0
+        }
+      ],
+      "left_knee_valgus": {
+        "mean": 0.23934635944155305,
+        "std": 0.7418456836442359,
+        "min": -0.8034912340393052,
+        "max": 1.9448656434203002,
+        "p5": -0.8034912340393052,
+        "p95": 1.737335588533942
+      },
+      "right_knee_valgus": {
+        "mean": -0.5627566539995918,
+        "std": 1.2849294186561282,
+        "min": -1.7513498937407763,
+        "max": 1.8681490674520438,
+        "p5": -1.7473742852389271,
+        "p95": 1.6775948420847202
+      },
+      "torso_lean": {
+        "mean": -5.701612019211435e-17,
+        "std": 2.9113228044280216e-16,
+        "min": -8.615570653468099e-16,
+        "max": 4.540774285041062e-16,
+        "p5": -8.479718988675986e-16,
+        "p95": 2.272245085378617e-16
+      },
+      "lumbar_deviation": {
+        "mean": 159.00695074551987,
+        "std": 10.589632457791714,
+        "min": 143.7487596105296,
+        "max": 169.42597807164856,
+        "p5": 144.60357553025608,
+        "p95": 169.42597807164856
+      },
+      "classifications": {
+        "left_knee": "neutral",
+        "right_knee": "neutral",
+        "torso": "neutral",
+        "lumbar": "neutral"
+      },
+      "compensation_flags": [
+        "Low back arches (excessive lordosis)"
+      ]
+    },
+    {
+      "subject_id": "2",
+      "total_frames": 261,
+      "valid_frames": 261,
+      "squat_phases": [
+        {
+          "start_frame": 0,
+          "bottom_frame": 0,
+          "end_frame": 10,
+          "max_depth": 0.7110932132136529
+        },
+        {
+          "start_frame": 31,
+          "bottom_frame": 49,
+          "end_frame": 59,
+          "max_depth": 0.5092868525978067
+        },
+        {
+          "start_frame": 75,
+          "bottom_frame": 87,
+          "end_frame": 202,
+          "max_depth": 1.0
+        },
+        {
+          "start_frame": 207,
+          "bottom_frame": 223,
+          "end_frame": 260,
+          "max_depth": 0.8689543351596043
+        }
+      ],
+      "left_knee_valgus": {
+        "mean": 1.1288253983404353,
+        "std": 3.5152558497108495,
+        "min": -2.395873521785576,
+        "max": 7.4539060365855345,
+        "p5": -2.395873521785575,
+        "p95": 7.313335701748109
+      },
+      "right_knee_valgus": {
+        "mean": 3.7387822706618032,
+        "std": 3.056547642875428,
+        "min": 0.5370625628578498,
+        "max": 9.25693815034537,
+        "p5": 0.593873125650033,
+        "p95": 9.169829510046087
+      },
+      "torso_lean": {
+        "mean": 6.002494296263731e-17,
+        "std": 1.682824154138659e-15,
+        "min": -2.9596017805261646e-15,
+        "max": 6.098183969704128e-15,
+        "p5": -2.7326353011006048e-15,
+        "p95": 3.031918182543951e-15
+      },
+      "lumbar_deviation": {
+        "mean": 161.986627931734,
+        "std": 6.575443498851517,
+        "min": 149.19114188068815,
+        "max": 172.06031325484267,
+        "p5": 149.60443630359381,
+        "p95": 171.41831892715498
+      },
+      "classifications": {
+        "left_knee": "neutral",
+        "right_knee": "neutral",
+        "torso": "neutral",
+        "lumbar": "neutral"
+      },
+      "compensation_flags": [
+        "Low back arches (excessive lordosis)"
+      ]
+    },
+    {
+      "subject_id": "3",
+      "total_frames": 309,
+      "valid_frames": 309,
+      "squat_phases": [
+        {
+          "start_frame": 22,
+          "bottom_frame": 39,
+          "end_frame": 50,
+          "max_depth": 0.5142102644923194
+        },
+        {
+          "start_frame": 58,
+          "bottom_frame": 101,
+          "end_frame": 308,
+          "max_depth": 1.0
+        }
+      ],
+      "left_knee_valgus": {
+        "mean": 2.211116140884491,
+        "std": 0.7107946912751857,
+        "min": 0.02945247639128046,
+        "max": 2.9449371856247475,
+        "p5": 0.5500142587158734,
+        "p95": 2.734841112089932
+      },
+      "right_knee_valgus": {
+        "mean": 5.501125737163071,
+        "std": 0.5686268211998333,
+        "min": 4.321859563412458,
+        "max": 6.3451721398031555,
+        "p5": 4.458626566384677,
+        "p95": 6.129400711537291
+      },
+      "torso_lean": {
+        "mean": 6.173823094402711e-16,
+        "std": 1.5306239679725956e-15,
+        "min": -2.0116760084694287e-15,
+        "max": 3.89325740215918e-15,
+        "p5": -1.9782673164940132e-15,
+        "p95": 1.9637089329484965e-15
+      },
+      "lumbar_deviation": {
+        "mean": 102.38510595991683,
+        "std": 61.50455461146595,
+        "min": 32.31236709880557,
+        "max": 167.0310444669614,
+        "p5": 34.65215946077618,
+        "p95": 164.6309872281232
+      },
+      "classifications": {
+        "left_knee": "neutral",
+        "right_knee": "neutral",
+        "torso": "neutral",
+        "lumbar": "excessive_arch"
+      },
+      "compensation_flags": [
+        "Low back arches (excessive lordosis)"
+      ]
+    },
+    {
+      "subject_id": "4",
+      "total_frames": 309,
+      "valid_frames": 309,
+      "squat_phases": [
+        {
+          "start_frame": 20,
+          "bottom_frame": 40,
+          "end_frame": 53,
+          "max_depth": 0.44967755826829703
+        },
+        {
+          "start_frame": 57,
+          "bottom_frame": 224,
+          "end_frame": 308,
+          "max_depth": 1.0
+        }
+      ],
+      "left_knee_valgus": {
+        "mean": -0.005161312547770676,
+        "std": 3.8089483073879236,
+        "min": -5.944104269735903,
+        "max": 6.800260777769551,
+        "p5": -5.101315214474024,
+        "p95": 5.167758597080311
+      },
+      "right_knee_valgus": {
+        "mean": 5.3431140405436235,
+        "std": 4.288534782092147,
+        "min": -3.3177392405263424,
+        "max": 11.321810960795377,
+        "p5": -2.0027502217129856,
+        "p95": 10.845618264883615
+      },
+      "torso_lean": {
+        "mean": 1.6591896463950926e-16,
+        "std": 2.6090693440073413e-15,
+        "min": -5.843191612266705e-15,
+        "max": 6.514421908815601e-15,
+        "p5": -3.1459477514810297e-15,
+        "p95": 3.123204813155444e-15
+      },
+      "lumbar_deviation": {
+        "mean": 120.9561627248057,
+        "std": 11.355756640263838,
+        "min": 95.59174770202125,
+        "max": 138.35726821220555,
+        "p5": 100.10596299536378,
+        "p95": 133.19238443174783
+      },
+      "classifications": {
+        "left_knee": "neutral",
+        "right_knee": "neutral",
+        "torso": "neutral",
+        "lumbar": "excessive_arch"
+      },
+      "compensation_flags": [
+        "Right knee valgus (knees move inward)",
+        "Low back arches (excessive lordosis)"
+      ]
+    },
+    {
+      "subject_id": "5",
+      "total_frames": 418,
+      "valid_frames": 418,
+      "squat_phases": [
+        {
+          "start_frame": 37,
+          "bottom_frame": 46,
+          "end_frame": 47,
+          "max_depth": 0.3769775678623774
+        },
+        {
+          "start_frame": 53,
+          "bottom_frame": 90,
+          "end_frame": 106,
+          "max_depth": 0.821064577348928
+        },
+        {
+          "start_frame": 125,
+          "bottom_frame": 240,
+          "end_frame": 261,
+          "max_depth": 1.0
+        },
+        {
+          "start_frame": 265,
+          "bottom_frame": 272,
+          "end_frame": 282,
+          "max_depth": 0.439313908820477
+        },
+        {
+          "start_frame": 293,
+          "bottom_frame": 315,
+          "end_frame": 332,
+          "max_depth": 0.8886236768033764
+        },
+        {
+          "start_frame": 344,
+          "bottom_frame": 366,
+          "end_frame": 417,
+          "max_depth": 0.6708554461934713
+        }
+      ],
+      "left_knee_valgus": {
+        "mean": -1.2511993404522643,
+        "std": 3.204397757125432,
+        "min": -5.007345952543957,
+        "max": 5.4593766255375975,
+        "p5": -4.91492123764715,
+        "p95": 4.390140764973586
+      },
+      "right_knee_valgus": {
+        "mean": 3.44619191587359,
+        "std": 2.984058882856066,
+        "min": -0.04063153501315129,
+        "max": 12.062773780169064,
+        "p5": 0.43147987525976866,
+        "p95": 7.9488064484898535
+      },
+      "torso_lean": {
+        "mean": -3.217626569867154e-16,
+        "std": 2.526265385523766e-15,
+        "min": -6.334344069577516e-15,
+        "max": 6.2502336715949055e-15,
+        "p5": -5.659156352343473e-15,
+        "p95": 3.128406975558352e-15
+      },
+      "lumbar_deviation": {
+        "mean": 159.2849050879393,
+        "std": 12.904028507362911,
+        "min": 131.08034623970866,
+        "max": 178.47780571350083,
+        "p5": 135.23413391815072,
+        "p95": 175.19188257745878
+      },
+      "classifications": {
+        "left_knee": "neutral",
+        "right_knee": "neutral",
+        "torso": "neutral",
+        "lumbar": "neutral"
+      },
+      "compensation_flags": [
+        "Low back arches (excessive lordosis)"
+      ]
+    }
+  ]
+}
